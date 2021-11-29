@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waystogo" alt="waystogo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shiva_dot_dev" target="blank"><img src="https://img.shields.io/twitter/follow/shiva_dot_dev?logo=twitter&style=for-the-badge" alt="shiva_dot_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shiv4io" target="blank"><img src="https://img.shields.io/twitter/follow/shiv4io?logo=twitter&style=for-the-badge" alt="shiv4io" /></a> </p>
 
 - 🔭 I’m currently working in **Optym**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://codepen.io/readytohackk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="readytohackk" height="30" width="40" /></a>
 <a href="https://dev.to/waystogo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="waystogo" height="30" width="40" /></a>
-<a href="https://twitter.com/shiva_dot_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiva_dot_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/shiv4io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiv4io" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/animireddyshiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animireddyshiva" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/readytohackk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="readytohackk" height="30" width="40" /></a>
 </p>
