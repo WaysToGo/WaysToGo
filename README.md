@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anything related to Frontend.**
 
-- 📫 How to reach me **readytohackk#gmail.com**
+- 📫 How to reach me **readytohackk@gmail.com**
 
 - 📄 Know about my experiences [https://waystogo.github.io/](https://waystogo.github.io/)
 
