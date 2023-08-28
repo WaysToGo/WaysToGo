@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shiv4io" target="blank"><img src="https://img.shields.io/twitter/follow/shiv4io?logo=twitter&style=for-the-badge" alt="shiv4io" /></a> </p>
 
-- 🔭 I’m currently working in **Optym**
+- 🔭 I’m currently working in **Walmart**
 
 - 🌱 I’m currently learning **Blitz,Prisma**
 
